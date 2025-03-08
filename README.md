@@ -19,3 +19,33 @@ This repository contains a simple breakout clone game implemented in Python usin
    ```
 
 Enjoy the game!
+
+# Rust Breakout
+
+A simple breakout game implemented in Rust and compiled to WebAssembly.
+
+## Getting Started
+
+### Prerequisites
+- Node.js (for the local server)
+
+### Running the application
+
+1. Install dependencies (if any):
+```
+npm install
+```
+
+2. Start the local server:
+```
+npm start
+```
+
+3. Open your browser and navigate to:
+```
+http://localhost:3000
+```
+
+## How to Play
+- Use left/right arrow keys to move the paddle
+- Press spacebar to launch the ball
